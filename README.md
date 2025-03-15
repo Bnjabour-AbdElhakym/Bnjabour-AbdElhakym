@@ -4,8 +4,6 @@
 🎨 Expertise spans frontend (HTML, CSS, JS) to backend (MySQL, MongoDB) and DevOps (Docker).
 🔧 Skilled in crafting clean code, designing systems with UML, and solving complex problems.
 🌍 Always exploring new technologies to create innovative solutions!
-I'm here if needs any help [instagram](https://www.instagram.com/kakim_bnj)
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abd_elhakym) 
