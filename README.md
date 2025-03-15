@@ -9,9 +9,9 @@ I'm here if needs any help [instagram](https://www.instagram.com/kakim_bnj)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abd_elhakym) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/Abd%20Elhakym%20Bnjabour) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61551833621515) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/kakim_bnj) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abd%20Elhakym%20BNJABOUR) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-elhakym-bnjabour-aa9870184/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/kakim_BNJ)
 
 # 💻 Tech Stack:
